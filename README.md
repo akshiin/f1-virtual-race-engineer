@@ -38,8 +38,6 @@ Data is pulled from the [OpenF1 API](https://openf1.org/) into a local SQLite da
 
 *Suggested shot: the “Fastest Lap Summary” metrics for both selected drivers.*
 
-> **How to add your media:** create an `assets/` folder in the repo root and drop your GIFs/PNGs there using the filenames above (or update the paths in this README to match your names).
-
 ---
 
 ## Features
